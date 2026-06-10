@@ -39,10 +39,7 @@ relevant questions instantly.
 - Contains English passages with questions and answers
 - Used for testing and evaluation
 
----
 
-##  Output
-![Output Screenshot](E:\python\exam-question-generator\images/output.png)
 
 ---
 
